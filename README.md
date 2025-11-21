@@ -2,7 +2,7 @@
 
 A robust **PostgreSQL** based system designed to automate the calculation of Semester Grade Point Average (SGPA) and Cumulative Grade Point Average (CGPA) for academic batches. This project streamlines the processing of raw student data, handling everything from bulk data ingestion to final rank generation.
 
-![Output Preview](image_b798c0.png)
+![Output Preview](FinalResult.png)
 *Preview of the final CGPA computation output.*
 
 ## 🚀 Features
